@@ -4,7 +4,7 @@ This library contains code developed for an XAI-based Data Envelopment Analysis 
 
 The Python portion focuses on applying multiple machine learning algorithms to the dataset. The model with the highest predictive performance is then selected for explainability analysis using the LIME method.
 
-The MATLAB code implements multi-objective optimization for DEA target setting.
+The MATLAB code implements counterfactual multi-objective optimization for DEA target setting.
 
 For more details about this research, you can refer to the original paper, which is available as open access:
 
